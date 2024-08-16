@@ -926,9 +926,19 @@
 			)
 		)
 	)
+	(text "Record to Beat: \n0.6\"x0.8\"\n15mm x 20.23mm"
+		(exclude_from_sim no)
+		(at 185.674 19.812 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "d153a3c5-7a1f-4359-816f-e5e18e8482b8")
+	)
 	(symbol
 		(lib_id "Project_Symbols:A4988SETTR-T")
-		(at 83.82 44.45 0)
+		(at 81.28 41.91 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -937,7 +947,7 @@
 		(fields_autoplaced yes)
 		(uuid "92ac1d8f-573f-4a5f-b893-d24b3826e8df")
 		(property "Reference" "U1"
-			(at 102.4318 35.56 0)
+			(at 99.8918 33.02 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -945,7 +955,7 @@
 			)
 		)
 		(property "Value" "A4988SETTR-T"
-			(at 102.4318 38.1 0)
+			(at 99.8918 35.56 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -953,7 +963,7 @@
 			)
 		)
 		(property "Footprint" "QFN-28_ALM"
-			(at 101.6 41.91 0)
+			(at 99.06 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -963,7 +973,7 @@
 			)
 		)
 		(property "Datasheet" "A4988SETTR-T"
-			(at 101.6 39.37 0)
+			(at 99.06 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -973,7 +983,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 83.82 44.45 0)
+			(at 81.28 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)

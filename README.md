@@ -1,5 +1,6 @@
-# Worlds Smallest Stepper Motor Driver
-Redesigning the common A4988 Stepper driver motor into an ultra-compact PCB layout that is the smallest ever created.
+# NanoStep - The World's Smallest Stepper Motor Driver
+Redesigning the common A4988 Stepper driver motor board into an ultra-compact multi-layer PCB layout, creating the smallest bipolar Stepper motor driver ever.
+Careful steps have been taken to 
 
 
 wrok in progress..
